@@ -1,0 +1,3 @@
+memindahkan file : sudo mv namafolder /opt/lampp/htdocs
+hapus file : sudo rm -r namafolder
+rename file : sudo mv file1.txt file2.txt
